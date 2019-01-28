@@ -1782,12 +1782,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rglFHhQxiu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/4-2000x1774.jpg");
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-1-1920x1100.jpg");
 }
 .cid-rglFHhQxiu .mbr-section-subtitle {
-  color: #767676;
+  color: #ffd700;
   font-weight: 300;
 }
 .cid-rglFHhQxiu .number-wrap {
@@ -1877,4 +1877,7 @@ body {
   .cid-rglFHhQxiu .period {
     font-size: 0.6rem;
   }
+}
+.cid-rglFHhQxiu B {
+  color: #ffd700;
 }
